@@ -1,7 +1,7 @@
 ##fish tank simulator##
 #generates up to 10 fish for your fish tank with random species, color and size.#
 #simulation runs every 4 seconds and updates the fish's location then asks for input through command line.
-#enter 'q' to end the simulation
+#enter 'q' to end the simulation, any other key will just continue the simulation
 
 import random
 import time
