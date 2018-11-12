@@ -1,9 +1,12 @@
+##fish tank simulator##
+#generates up to 10 fish for your fish tank with random species, color and size.#
+#simulation runs every 4 seconds and updates the fish's location then asks for input through command line.
+#enter 'q' to end the simulation
+
 import random
 import time
 
-#Random.choice
-#Random.random
-#time.sleep(5) waits for 5 seconds
+
 rint = random.randint
 
 
