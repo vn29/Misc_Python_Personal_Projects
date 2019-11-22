@@ -1,6 +1,7 @@
 import numpy as np
 from scipy import linalg
 import math
+import pandas as pd
 
 inch = 1.
 lb = 1.
